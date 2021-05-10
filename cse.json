@@ -1,0 +1,2200 @@
+[
+  {
+    "gpa": "8.2", 
+    "id": 1, 
+    "idnum": "N170001", 
+    "name": "PALIVELA ASHOK KUMAR", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170001.jpg"
+  }, 
+  {
+    "gpa": "9.5", 
+    "id": 2, 
+    "idnum": "N170004", 
+    "name": "CHESETTI BHANU PRASAD", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170004.jpg"
+  }, 
+  {
+    "gpa": "7.5", 
+    "id": 3, 
+    "idnum": "N170010", 
+    "name": "SERU THARUNI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170010.jpg"
+  }, 
+  {
+    "gpa": "7.9", 
+    "id": 4, 
+    "idnum": "N170019", 
+    "name": "PULAMARASETTI UDAY KIRAN", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170019.jpg"
+  }, 
+  {
+    "gpa": "7.7", 
+    "id": 5, 
+    "idnum": "N170022", 
+    "name": "SHAIK RAFIYA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170022.jpg"
+  }, 
+  {
+    "gpa": "0.0", 
+    "id": 6, 
+    "idnum": "N170025", 
+    "name": "KAGITHA MEENAKSHI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170025.jpg"
+  }, 
+  {
+    "gpa": "7.7", 
+    "id": 7, 
+    "idnum": "N170027", 
+    "name": "VITTANALA MANIKUMAR", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170027.jpg"
+  }, 
+  {
+    "gpa": "7.6", 
+    "id": 8, 
+    "idnum": "N170028", 
+    "name": "NALI LAVANYA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170028.jpg"
+  }, 
+  {
+    "gpa": "8.7", 
+    "id": 9, 
+    "idnum": "N170035", 
+    "name": "CHINDUKURI KEERTHI SRI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170035.jpg"
+  }, 
+  {
+    "gpa": "6.8", 
+    "id": 10, 
+    "idnum": "N170036", 
+    "name": "GADIBOINA KEDHARNADH", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170036.jpg"
+  }, 
+  {
+    "gpa": "8.0", 
+    "id": 11, 
+    "idnum": "N170044", 
+    "name": "MD IRFAN", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170044.jpg"
+  }, 
+  {
+    "gpa": "8.9", 
+    "id": 12, 
+    "idnum": "N170047", 
+    "name": "DARAPUNENI DIVYAVANI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170047.jpg"
+  }, 
+  {
+    "gpa": "9.1", 
+    "id": 13, 
+    "idnum": "N170049", 
+    "name": "BIJJAM ANAND PRASAD", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170049.jpg"
+  }, 
+  {
+    "gpa": "6.8", 
+    "id": 14, 
+    "idnum": "N170061", 
+    "name": "POLIMETLA ASHA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170061.jpg"
+  }, 
+  {
+    "gpa": "6.1", 
+    "id": 15, 
+    "idnum": "N170062", 
+    "name": "NOKKU PUSHPA LAKSHMI KUMARI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170062.jpg"
+  }, 
+  {
+    "gpa": "8.4", 
+    "id": 16, 
+    "idnum": "N170063", 
+    "name": "PAIDIMALLA PRAMEELA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170063.jpg"
+  }, 
+  {
+    "gpa": "7.6", 
+    "id": 17, 
+    "idnum": "N170064", 
+    "name": "SYED ASHRAF", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170064.jpg"
+  }, 
+  {
+    "gpa": "7.5", 
+    "id": 18, 
+    "idnum": "N170066", 
+    "name": "TAMALAMPUDI VIJAYA KUMAR REDDY", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170066.jpg"
+  }, 
+  {
+    "gpa": "8.0", 
+    "id": 19, 
+    "idnum": "N170067", 
+    "name": "KANDIBOINA CHANDINI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170067.jpg"
+  }, 
+  {
+    "gpa": "7.5", 
+    "id": 20, 
+    "idnum": "N170070", 
+    "name": "BHUPATHI SWEETY", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170070.jpg"
+  }, 
+  {
+    "gpa": "8.6", 
+    "id": 21, 
+    "idnum": "N170071", 
+    "name": "THOTA TEJA SREE", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170071.jpg"
+  }, 
+  {
+    "gpa": "7.8", 
+    "id": 22, 
+    "idnum": "N170073", 
+    "name": "KOTHURTHI SAI SAHITH", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170073.jpg"
+  }, 
+  {
+    "gpa": "9.0", 
+    "id": 23, 
+    "idnum": "N170074", 
+    "name": "PRATTIPATI ANIL KUMAR", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170074.jpg"
+  }, 
+  {
+    "gpa": "8.6", 
+    "id": 24, 
+    "idnum": "N170076", 
+    "name": "JAVVAJI HEMANTH KUMAR", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170076.jpg"
+  }, 
+  {
+    "gpa": "8.7", 
+    "id": 25, 
+    "idnum": "N170078", 
+    "name": "SOMAROUTHU VENKATA LAKSHMI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170078.jpg"
+  }, 
+  {
+    "gpa": "9.4", 
+    "id": 26, 
+    "idnum": "N170079", 
+    "name": "GOMASANI SIVA SANKAR", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170079.jpg"
+  }, 
+  {
+    "gpa": "8.7", 
+    "id": 27, 
+    "idnum": "N170084", 
+    "name": "SANAPATHI CHAYA SUVARNA LATHA DEVI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170084.jpg"
+  }, 
+  {
+    "gpa": "7.9", 
+    "id": 28, 
+    "idnum": "N170086", 
+    "name": "THOTAKURA ANURADHA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170086.jpg"
+  }, 
+  {
+    "gpa": "8.4", 
+    "id": 29, 
+    "idnum": "N170092", 
+    "name": "AKULA MADHURIMA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170092.jpg"
+  }, 
+  {
+    "gpa": "8.2", 
+    "id": 30, 
+    "idnum": "N170099", 
+    "name": "ADINA PAVANI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170099.jpg"
+  }, 
+  {
+    "gpa": "9.5", 
+    "id": 31, 
+    "idnum": "N170102", 
+    "name": "BALIJI ARJUNAMMA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170102.jpg"
+  }, 
+  {
+    "gpa": "7.6", 
+    "id": 32, 
+    "idnum": "N170108", 
+    "name": "AKKINA MAHIMA SWARNALATHA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170108.jpg"
+  }, 
+  {
+    "gpa": "8.6", 
+    "id": 33, 
+    "idnum": "N170114", 
+    "name": "VANKA SWATHI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170114.jpg"
+  }, 
+  {
+    "gpa": "9.8", 
+    "id": 34, 
+    "idnum": "N170115", 
+    "name": "THOOMU LAKSHMI DURGABHAVANI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170115.jpg"
+  }, 
+  {
+    "gpa": "8.8", 
+    "id": 35, 
+    "idnum": "N170118", 
+    "name": "DANNANA JYOTHSNA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170118.jpg"
+  }, 
+  {
+    "gpa": "6.6", 
+    "id": 36, 
+    "idnum": "N170119", 
+    "name": "KUNCHALA JYOTHSNA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170119.jpg"
+  }, 
+  {
+    "gpa": "7.6", 
+    "id": 37, 
+    "idnum": "N170123", 
+    "name": "GANDI MANGADEVI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170123.jpg"
+  }, 
+  {
+    "gpa": "8.5", 
+    "id": 38, 
+    "idnum": "N170128", 
+    "name": "KUNAPAREDDY VYSHNAVI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170128.jpg"
+  }, 
+  {
+    "gpa": "8.1", 
+    "id": 39, 
+    "idnum": "N170138", 
+    "name": "ASARAPALLI DEVAKI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170138.jpg"
+  }, 
+  {
+    "gpa": "8.9", 
+    "id": 40, 
+    "idnum": "N170140", 
+    "name": "MANDLA USHA RANI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170140.jpg"
+  }, 
+  {
+    "gpa": "8.1", 
+    "id": 41, 
+    "idnum": "N170142", 
+    "name": "KOPPULA JAGADEESH", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170142.jpg"
+  }, 
+  {
+    "gpa": "8.7", 
+    "id": 42, 
+    "idnum": "N170152", 
+    "name": "ATTILI HARSHITHA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170152.jpg"
+  }, 
+  {
+    "gpa": "8.9", 
+    "id": 43, 
+    "idnum": "N170156", 
+    "name": "BENDA LAKSHMI VINAYASRI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170156.jpg"
+  }, 
+  {
+    "gpa": "6.9", 
+    "id": 44, 
+    "idnum": "N170157", 
+    "name": "KANDUKURI SURYA PRASANNA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170157.jpg"
+  }, 
+  {
+    "gpa": "8.6", 
+    "id": 45, 
+    "idnum": "N170175", 
+    "name": "KOPPISETTY BHAGYA LAKSHMI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170175.jpg"
+  }, 
+  {
+    "gpa": "9.3", 
+    "id": 46, 
+    "idnum": "N170176", 
+    "name": "SHAIK SAJIDA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170176.jpg"
+  }, 
+  {
+    "gpa": "7.4", 
+    "id": 47, 
+    "idnum": "N170183", 
+    "name": "DUNABOYINA DURGA DILEEP", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170183.jpg"
+  }, 
+  {
+    "gpa": "8.5", 
+    "id": 48, 
+    "idnum": "N170185", 
+    "name": "ANUSURI ISHWARYA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170185.jpg"
+  }, 
+  {
+    "gpa": "8.1", 
+    "id": 49, 
+    "idnum": "N170186", 
+    "name": "TATA UMADEVI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170186.jpg"
+  }, 
+  {
+    "gpa": "8.2", 
+    "id": 50, 
+    "idnum": "N170195", 
+    "name": "NAGUDU MOUNIKA DURGA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170195.jpg"
+  }, 
+  {
+    "gpa": "8.4", 
+    "id": 51, 
+    "idnum": "N170199", 
+    "name": "MADDALA TEJASRI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170199.jpg"
+  }, 
+  {
+    "gpa": "8.6", 
+    "id": 52, 
+    "idnum": "N170204", 
+    "name": "PEMMADI BHAVYA SRI VARMA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170204.jpg"
+  }, 
+  {
+    "gpa": "8.9", 
+    "id": 53, 
+    "idnum": "N170205", 
+    "name": "GUNDUBOGULA SURYA LAKSHMI PRASANNA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170205.jpg"
+  }, 
+  {
+    "gpa": "8.0", 
+    "id": 54, 
+    "idnum": "N170208", 
+    "name": "DANDE BOBBY", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170208.jpg"
+  }, 
+  {
+    "gpa": "9.2", 
+    "id": 55, 
+    "idnum": "N170210", 
+    "name": "NULU PHANI SWATHI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170210.jpg"
+  }, 
+  {
+    "gpa": "8.6", 
+    "id": 56, 
+    "idnum": "N170214", 
+    "name": "PEDAPUDI DIVYA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170214.jpg"
+  }, 
+  {
+    "gpa": "9.0", 
+    "id": 57, 
+    "idnum": "N170218", 
+    "name": "TEKI KUMARI CHANDINI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170218.jpg"
+  }, 
+  {
+    "gpa": "8.5", 
+    "id": 58, 
+    "idnum": "N170220", 
+    "name": "VATTURI GOUTHAMI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170220.jpg"
+  }, 
+  {
+    "gpa": "9.1", 
+    "id": 59, 
+    "idnum": "N170222", 
+    "name": "CHALLAPALLI SAI KRISHNA KISHORE", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170222.jpg"
+  }, 
+  {
+    "gpa": "9.6", 
+    "id": 60, 
+    "idnum": "N170223", 
+    "name": "KONNA ROSHNI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170223.jpg"
+  }, 
+  {
+    "gpa": "9.1", 
+    "id": 61, 
+    "idnum": "N170225", 
+    "name": "CHOLLANGI MEGHANADEVI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170225.jpg"
+  }, 
+  {
+    "gpa": "7.6", 
+    "id": 62, 
+    "idnum": "N170226", 
+    "name": "SHAIK ANJU", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170226.jpg"
+  }, 
+  {
+    "gpa": "9.3", 
+    "id": 63, 
+    "idnum": "N170228", 
+    "name": "RAYANA ROSHINI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170228.jpg"
+  }, 
+  {
+    "gpa": "8.1", 
+    "id": 64, 
+    "idnum": "N170243", 
+    "name": "GOLUGURI VARALAKSHMI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170243.jpg"
+  }, 
+  {
+    "gpa": "8.1", 
+    "id": 65, 
+    "idnum": "N170244", 
+    "name": "KOPPU ANUSHA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170244.jpg"
+  }, 
+  {
+    "gpa": "7.9", 
+    "id": 66, 
+    "idnum": "N170245", 
+    "name": "PUKKALLA KHYATHI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170245.jpg"
+  }, 
+  {
+    "gpa": "9.0", 
+    "id": 67, 
+    "idnum": "N170247", 
+    "name": "PALLEM KARTHEEK", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170247.jpg"
+  }, 
+  {
+    "gpa": "8.5", 
+    "id": 68, 
+    "idnum": "N170256", 
+    "name": "GAMPALA LAKSHMI VAGDEVI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170256.jpg"
+  }, 
+  {
+    "gpa": "9.7", 
+    "id": 69, 
+    "idnum": "N170261", 
+    "name": "AKULA SWAPNA SEETHA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170261.jpg"
+  }, 
+  {
+    "gpa": "8.0", 
+    "id": 70, 
+    "idnum": "N170264", 
+    "name": "BOKKA NAGAJYOTHI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170264.jpg"
+  }, 
+  {
+    "gpa": "8.6", 
+    "id": 71, 
+    "idnum": "N170271", 
+    "name": "GUDIWADA SREE RAMYA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170271.jpg"
+  }, 
+  {
+    "gpa": "8.9", 
+    "id": 72, 
+    "idnum": "N170272", 
+    "name": "LOPINTI ABHIJEETH BABA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170272.jpg"
+  }, 
+  {
+    "gpa": "9.0", 
+    "id": 73, 
+    "idnum": "N170275", 
+    "name": "S.MAHENDRA KUMAR", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170275.jpg"
+  }, 
+  {
+    "gpa": "8.8", 
+    "id": 74, 
+    "idnum": "N170278", 
+    "name": "GOTTAPU MOUNIKA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170278.jpg"
+  }, 
+  {
+    "gpa": "8.9", 
+    "id": 75, 
+    "idnum": "N170282", 
+    "name": "BEZAWADA SIVA RAJA RAJESWARI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170282.jpg"
+  }, 
+  {
+    "gpa": "9.5", 
+    "id": 76, 
+    "idnum": "N170284", 
+    "name": "VADDADI SRI SAI YASHAS CHANDRA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170284.jpg"
+  }, 
+  {
+    "gpa": "8.6", 
+    "id": 77, 
+    "idnum": "N170286", 
+    "name": "DHUBA DEEPIKA LAKSHMI PRIYA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170286.jpg"
+  }, 
+  {
+    "gpa": "7.4", 
+    "id": 78, 
+    "idnum": "N170288", 
+    "name": "BOMMI SETTI BALU", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170288.jpg"
+  }, 
+  {
+    "gpa": "6.9", 
+    "id": 79, 
+    "idnum": "N170292", 
+    "name": "SHAIK TAHASEEN", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170292.jpg"
+  }, 
+  {
+    "gpa": "8.8", 
+    "id": 80, 
+    "idnum": "N170293", 
+    "name": "ALLAMSETTI HEMA HARI PRIYA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170293.jpg"
+  }, 
+  {
+    "gpa": "8.0", 
+    "id": 81, 
+    "idnum": "N170295", 
+    "name": "GENJI SHIVA SHANKAR", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170295.jpg"
+  }, 
+  {
+    "gpa": "7.0", 
+    "id": 82, 
+    "idnum": "N170297", 
+    "name": "PANTHADI SATYA NAGA SANTHI KUMARI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170297.jpg"
+  }, 
+  {
+    "gpa": "8.0", 
+    "id": 83, 
+    "idnum": "N170299", 
+    "name": "S VAMSI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170299.jpg"
+  }, 
+  {
+    "gpa": "9.2", 
+    "id": 84, 
+    "idnum": "N170306", 
+    "name": "PYLA JANAKI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170306.jpg"
+  }, 
+  {
+    "gpa": "8.2", 
+    "id": 85, 
+    "idnum": "N170307", 
+    "name": "ANINGI LIKHITH", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170307.jpg"
+  }, 
+  {
+    "gpa": "7.0", 
+    "id": 86, 
+    "idnum": "N170319", 
+    "name": "KORADA SANTOSH KUMAR", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170319.jpg"
+  }, 
+  {
+    "gpa": "7.8", 
+    "id": 87, 
+    "idnum": "N170324", 
+    "name": "BOTTA RENUKA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170324.jpg"
+  }, 
+  {
+    "gpa": "8.9", 
+    "id": 88, 
+    "idnum": "N170325", 
+    "name": "BHATTA VINEELA.", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170325.jpg"
+  }, 
+  {
+    "gpa": "8.4", 
+    "id": 89, 
+    "idnum": "N170327", 
+    "name": "KANCHARI PRATHYUSHA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170327.jpg"
+  }, 
+  {
+    "gpa": "9.6", 
+    "id": 90, 
+    "idnum": "N170331", 
+    "name": "YARAGUTI YAMINI NAVYA SRI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170331.jpg"
+  }, 
+  {
+    "gpa": "9.0", 
+    "id": 91, 
+    "idnum": "N170337", 
+    "name": "RAAVI ANANTHA LAKSHMI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170337.jpg"
+  }, 
+  {
+    "gpa": "3.3", 
+    "id": 92, 
+    "idnum": "N170338", 
+    "name": "DASARI ANUSHA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170338.jpg"
+  }, 
+  {
+    "gpa": "9.7", 
+    "id": 93, 
+    "idnum": "N170339", 
+    "name": "VADDI KAVYA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170339.jpg"
+  }, 
+  {
+    "gpa": "0.0", 
+    "id": 94, 
+    "idnum": "N170346", 
+    "name": "GANNABATTULA MADHUVALLI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170346.jpg"
+  }, 
+  {
+    "gpa": "7.9", 
+    "id": 95, 
+    "idnum": "N170347", 
+    "name": "KOTLA BHAVANI SAMMAKKA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170347.jpg"
+  }, 
+  {
+    "gpa": "9.1", 
+    "id": 96, 
+    "idnum": "N170351", 
+    "name": "VELAMALA CHANDINI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170351.jpg"
+  }, 
+  {
+    "gpa": "9.5", 
+    "id": 97, 
+    "idnum": "N170355", 
+    "name": "MUTHIREDDY SINDHU", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170355.jpg"
+  }, 
+  {
+    "gpa": "5.2", 
+    "id": 98, 
+    "idnum": "N170358", 
+    "name": "NALLI ESTHER RANI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170358.jpg"
+  }, 
+  {
+    "gpa": "9.0", 
+    "id": 99, 
+    "idnum": "N170367", 
+    "name": "DHULIPUDI VAISHNAVI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170367.jpg"
+  }, 
+  {
+    "gpa": "7.9", 
+    "id": 100, 
+    "idnum": "N170369", 
+    "name": "MUDUNURI RAJESWARI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170369.jpg"
+  }, 
+  {
+    "gpa": "8.9", 
+    "id": 101, 
+    "idnum": "N170372", 
+    "name": "GANTA LALITHA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170372.jpg"
+  }, 
+  {
+    "gpa": "8.2", 
+    "id": 102, 
+    "idnum": "N170376", 
+    "name": "SHAIK NIHA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170376.jpg"
+  }, 
+  {
+    "gpa": "8.7", 
+    "id": 103, 
+    "idnum": "N170381", 
+    "name": "YADAM LASYA NAGA KRISHNANJALI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170381.jpg"
+  }, 
+  {
+    "gpa": "6.1", 
+    "id": 104, 
+    "idnum": "N170384", 
+    "name": "NANDAMURI VENKATA PADMAJA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170384.jpg"
+  }, 
+  {
+    "gpa": "8.8", 
+    "id": 105, 
+    "idnum": "N170385", 
+    "name": "ADABALA CHANDRIKA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170385.jpg"
+  }, 
+  {
+    "gpa": "9.3", 
+    "id": 106, 
+    "idnum": "N170387", 
+    "name": "KASIREDDI VASAVI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170387.jpg"
+  }, 
+  {
+    "gpa": "8.2", 
+    "id": 107, 
+    "idnum": "N170390", 
+    "name": "MOGILI NAGAMANI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170390.jpg"
+  }, 
+  {
+    "gpa": "8.1", 
+    "id": 108, 
+    "idnum": "N170392", 
+    "name": "GEESALA HYMAVATHI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170392.jpg"
+  }, 
+  {
+    "gpa": "8.0", 
+    "id": 109, 
+    "idnum": "N170397", 
+    "name": "ALLADA SIVANI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170397.jpg"
+  }, 
+  {
+    "gpa": "8.1", 
+    "id": 110, 
+    "idnum": "N170398", 
+    "name": "AMARAPU REVATHI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170398.jpg"
+  }, 
+  {
+    "gpa": "7.6", 
+    "id": 111, 
+    "idnum": "N170406", 
+    "name": "KOKKILIGADDA SRUJANA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170406.jpg"
+  }, 
+  {
+    "gpa": "5.0", 
+    "id": 112, 
+    "idnum": "N170409", 
+    "name": "THOTA RATHNA PRIYA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170409.jpg"
+  }, 
+  {
+    "gpa": "8.2", 
+    "id": 113, 
+    "idnum": "N170410", 
+    "name": "MAJJI NEERAJA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170410.jpg"
+  }, 
+  {
+    "gpa": "8.7", 
+    "id": 114, 
+    "idnum": "N170412", 
+    "name": "MARASU VENKATA NAGENDRA BABU", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170412.jpg"
+  }, 
+  {
+    "gpa": "8.4", 
+    "id": 115, 
+    "idnum": "N170413", 
+    "name": "YARABATI VENKATA REVATHIPATHI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170413.jpg"
+  }, 
+  {
+    "gpa": "8.2", 
+    "id": 116, 
+    "idnum": "N170420", 
+    "name": "KUDUPUDI SRI VYSHNAVI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170420.jpg"
+  }, 
+  {
+    "gpa": "8.3", 
+    "id": 117, 
+    "idnum": "N170437", 
+    "name": "KOKKILIGADDA CHAITANYA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170437.jpg"
+  }, 
+  {
+    "gpa": "8.6", 
+    "id": 118, 
+    "idnum": "N170446", 
+    "name": "PALLA SAI JAHNAVI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170446.jpg"
+  }, 
+  {
+    "gpa": "6.4", 
+    "id": 119, 
+    "idnum": "N170448", 
+    "name": "BUNGA LIKITHA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170448.jpg"
+  }, 
+  {
+    "gpa": "8.8", 
+    "id": 120, 
+    "idnum": "N170453", 
+    "name": "PENTA RAMA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170453.jpg"
+  }, 
+  {
+    "gpa": "6.7", 
+    "id": 121, 
+    "idnum": "N170455", 
+    "name": "ABOTHULA SATISH", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170455.jpg"
+  }, 
+  {
+    "gpa": "9.4", 
+    "id": 122, 
+    "idnum": "N170456", 
+    "name": "KADAVA YAMUNA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170456.jpg"
+  }, 
+  {
+    "gpa": "8.7", 
+    "id": 123, 
+    "idnum": "N170458", 
+    "name": "PAPANA BALASRI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170458.jpg"
+  }, 
+  {
+    "gpa": "8.4", 
+    "id": 124, 
+    "idnum": "N170461", 
+    "name": "GOSU LIKHITHA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170461.jpg"
+  }, 
+  {
+    "gpa": "8.5", 
+    "id": 125, 
+    "idnum": "N170462", 
+    "name": "MARUKURTHI SANTHOSH LAKSHMI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170462.jpg"
+  }, 
+  {
+    "gpa": "7.9", 
+    "id": 126, 
+    "idnum": "N170465", 
+    "name": "POKURI NAGA MANEENDRA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170465.jpg"
+  }, 
+  {
+    "gpa": "7.0", 
+    "id": 127, 
+    "idnum": "N170466", 
+    "name": "DANTA JEEVAN SAI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170466.jpg"
+  }, 
+  {
+    "gpa": "8.2", 
+    "id": 128, 
+    "idnum": "N170467", 
+    "name": "KESANAKURTHI VIJAYA DURGA KAMESH", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170467.jpg"
+  }, 
+  {
+    "gpa": "7.7", 
+    "id": 129, 
+    "idnum": "N170468", 
+    "name": "KARANAM LAKSHMI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170468.jpg"
+  }, 
+  {
+    "gpa": "9.6", 
+    "id": 130, 
+    "idnum": "N170470", 
+    "name": "KANDE VAMSIKRISHNA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170470.jpg"
+  }, 
+  {
+    "gpa": "9.1", 
+    "id": 131, 
+    "idnum": "N170473", 
+    "name": "VADDIPALLI MOUNIKA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170473.jpg"
+  }, 
+  {
+    "gpa": "8.9", 
+    "id": 132, 
+    "idnum": "N170475", 
+    "name": "DONTHAMSETTI LAKSHMI PARVATHI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170475.jpg"
+  }, 
+  {
+    "gpa": "8.6", 
+    "id": 133, 
+    "idnum": "N170479", 
+    "name": "PITHANI PRIYANKA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170479.jpg"
+  }, 
+  {
+    "gpa": "6.2", 
+    "id": 134, 
+    "idnum": "N170482", 
+    "name": "VAJJA VINODKUMAR", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170482.jpg"
+  }, 
+  {
+    "gpa": "8.2", 
+    "id": 135, 
+    "idnum": "N170485", 
+    "name": "NAGALLA SHIVA KUMAR", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170485.jpg"
+  }, 
+  {
+    "gpa": "7.5", 
+    "id": 136, 
+    "idnum": "N170487", 
+    "name": "VADDI VIBHAKAR", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170487.jpg"
+  }, 
+  {
+    "gpa": "7.8", 
+    "id": 137, 
+    "idnum": "N170489", 
+    "name": "MEESALA KANCHANA MAHESWARI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170489.jpg"
+  }, 
+  {
+    "gpa": "5.3", 
+    "id": 138, 
+    "idnum": "N170490", 
+    "name": "BONTHU BHAVANA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170490.jpg"
+  }, 
+  {
+    "gpa": "6.9", 
+    "id": 139, 
+    "idnum": "N170491", 
+    "name": "CHOPPALA HEPSIBHA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170491.jpg"
+  }, 
+  {
+    "gpa": "8.9", 
+    "id": 140, 
+    "idnum": "N170502", 
+    "name": "BALE DWARAKA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170502.jpg"
+  }, 
+  {
+    "gpa": "7.5", 
+    "id": 141, 
+    "idnum": "N170508", 
+    "name": "YENNI SAITEJA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170508.jpg"
+  }, 
+  {
+    "gpa": "7.9", 
+    "id": 142, 
+    "idnum": "N170510", 
+    "name": "YANDA SAITHARUN", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170510.jpg"
+  }, 
+  {
+    "gpa": "7.9", 
+    "id": 143, 
+    "idnum": "N170515", 
+    "name": "GUTTULA BHARGAVI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170515.jpg"
+  }, 
+  {
+    "gpa": "8.7", 
+    "id": 144, 
+    "idnum": "N170516", 
+    "name": "JAMANA PAVITRA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170516.jpg"
+  }, 
+  {
+    "gpa": "8.0", 
+    "id": 145, 
+    "idnum": "N170518", 
+    "name": "GUDURU KHASIM", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170518.jpg"
+  }, 
+  {
+    "gpa": "7.7", 
+    "id": 146, 
+    "idnum": "N170520", 
+    "name": "ARASADA ANEEL", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170520.jpg"
+  }, 
+  {
+    "gpa": "9.2", 
+    "id": 147, 
+    "idnum": "N170522", 
+    "name": "DADI LAVANYA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170522.jpg"
+  }, 
+  {
+    "gpa": "5.4", 
+    "id": 148, 
+    "idnum": "N170525", 
+    "name": "APARNA PETTA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170525.jpg"
+  }, 
+  {
+    "gpa": "5.9", 
+    "id": 149, 
+    "idnum": "N170530", 
+    "name": "POONDLA SUKUMAR", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170530.jpg"
+  }, 
+  {
+    "gpa": "7.3", 
+    "id": 150, 
+    "idnum": "N170543", 
+    "name": "SHAIK FAKRUNNISA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170543.jpg"
+  }, 
+  {
+    "gpa": "7.1", 
+    "id": 151, 
+    "idnum": "N170545", 
+    "name": "JAGARAPU SINDHUJA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170545.jpg"
+  }, 
+  {
+    "gpa": "7.8", 
+    "id": 152, 
+    "idnum": "N170546", 
+    "name": "KONETI MANASA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170546.jpg"
+  }, 
+  {
+    "gpa": "8.6", 
+    "id": 153, 
+    "idnum": "N170547", 
+    "name": "BOMMI DEVIPRIYA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170547.jpg"
+  }, 
+  {
+    "gpa": "7.4", 
+    "id": 154, 
+    "idnum": "N170549", 
+    "name": "MALLELA GANESH", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170549.jpg"
+  }, 
+  {
+    "gpa": "8.0", 
+    "id": 155, 
+    "idnum": "N170550", 
+    "name": "KADAKATLA HYMA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170550.jpg"
+  }, 
+  {
+    "gpa": "6.8", 
+    "id": 156, 
+    "idnum": "N170552", 
+    "name": "MOHAMMED MEHIRUNNISA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170552.jpg"
+  }, 
+  {
+    "gpa": "8.2", 
+    "id": 157, 
+    "idnum": "N170554", 
+    "name": "BENDI KALYANI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170554.jpg"
+  }, 
+  {
+    "gpa": "8.2", 
+    "id": 158, 
+    "idnum": "N170555", 
+    "name": "POLISETTY BALA CHINNAIAH", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170555.jpg"
+  }, 
+  {
+    "gpa": "8.6", 
+    "id": 159, 
+    "idnum": "N170556", 
+    "name": "VANKALA GOVINDA PADMAVATHI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170556.jpg"
+  }, 
+  {
+    "gpa": "7.9", 
+    "id": 160, 
+    "idnum": "N170561", 
+    "name": "BEERAKA NAGA VEERA SAI PRASAD", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170561.jpg"
+  }, 
+  {
+    "gpa": "7.6", 
+    "id": 161, 
+    "idnum": "N170565", 
+    "name": "KANOORI SUMANTH", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170565.jpg"
+  }, 
+  {
+    "gpa": "8.8", 
+    "id": 162, 
+    "idnum": "N170566", 
+    "name": "VISSAKOTI LIKHITHA BHAVANA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170566.jpg"
+  }, 
+  {
+    "gpa": "9.0", 
+    "id": 163, 
+    "idnum": "N170569", 
+    "name": "LANKA SUKANYA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170569.jpg"
+  }, 
+  {
+    "gpa": "9.8", 
+    "id": 164, 
+    "idnum": "N170572", 
+    "name": "BODDOJU V.N.S.L.THANMAI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170572.jpg"
+  }, 
+  {
+    "gpa": "9.6", 
+    "id": 165, 
+    "idnum": "N170576", 
+    "name": "SHAIK JASMIN", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170576.jpg"
+  }, 
+  {
+    "gpa": "8.1", 
+    "id": 166, 
+    "idnum": "N170578", 
+    "name": "PAGOLU NAVYA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170578.jpg"
+  }, 
+  {
+    "gpa": "9.6", 
+    "id": 167, 
+    "idnum": "N170579", 
+    "name": "KAGITALA RUPASREE", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170579.jpg"
+  }, 
+  {
+    "gpa": "9.2", 
+    "id": 168, 
+    "idnum": "N170582", 
+    "name": "VEMANABOINA BHAVANI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170582.jpg"
+  }, 
+  {
+    "gpa": "9.2", 
+    "id": 169, 
+    "idnum": "N170586", 
+    "name": "DEVI CHODIPILLI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170586.jpg"
+  }, 
+  {
+    "gpa": "7.6", 
+    "id": 170, 
+    "idnum": "N170588", 
+    "name": "CHINTHA SRIKAMALA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170588.jpg"
+  }, 
+  {
+    "gpa": "8.6", 
+    "id": 171, 
+    "idnum": "N170597", 
+    "name": "SIGINAM KEERTHI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170597.jpg"
+  }, 
+  {
+    "gpa": "7.7", 
+    "id": 172, 
+    "idnum": "N170598", 
+    "name": "ALLAKA SUNITHA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170598.jpg"
+  }, 
+  {
+    "gpa": "7.9", 
+    "id": 173, 
+    "idnum": "N170599", 
+    "name": "CHEERAPA BANGARU RAJU", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170599.jpg"
+  }, 
+  {
+    "gpa": "7.9", 
+    "id": 174, 
+    "idnum": "N170600", 
+    "name": "BOLLA NAGA ANUSHA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170600.jpg"
+  }, 
+  {
+    "gpa": "6.4", 
+    "id": 175, 
+    "idnum": "N170601", 
+    "name": "KANDIBOYINA NAVYA SWARAJ", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170601.jpg"
+  }, 
+  {
+    "gpa": "8.9", 
+    "id": 176, 
+    "idnum": "N170609", 
+    "name": "JAKKA JAYARAM", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170609.jpg"
+  }, 
+  {
+    "gpa": "5.8", 
+    "id": 177, 
+    "idnum": "N170612", 
+    "name": "BELLAMKONDA YASWANTH", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170612.jpg"
+  }, 
+  {
+    "gpa": "6.1", 
+    "id": 178, 
+    "idnum": "N170615", 
+    "name": "PALAPARTHI PAVAN TEJA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170615.jpg"
+  }, 
+  {
+    "gpa": "1.1", 
+    "id": 179, 
+    "idnum": "N170616", 
+    "name": "MIDDE JYOTHI SWARUPINI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170616.jpg"
+  }, 
+  {
+    "gpa": "6.2", 
+    "id": 180, 
+    "idnum": "N170627", 
+    "name": "BALLA TANUJA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170627.jpg"
+  }, 
+  {
+    "gpa": "8.7", 
+    "id": 181, 
+    "idnum": "N170628", 
+    "name": "KATIKADALA VIDYA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170628.jpg"
+  }, 
+  {
+    "gpa": "8.9", 
+    "id": 182, 
+    "idnum": "N170633", 
+    "name": "JAGU TATA RAO", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170633.jpg"
+  }, 
+  {
+    "gpa": "7.5", 
+    "id": 183, 
+    "idnum": "N170636", 
+    "name": "PULIDINDI MADHUBABU", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170636.jpg"
+  }, 
+  {
+    "gpa": "6.7", 
+    "id": 184, 
+    "idnum": "N170639", 
+    "name": "SYED ASMA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170639.jpg"
+  }, 
+  {
+    "gpa": "7.6", 
+    "id": 185, 
+    "idnum": "N170644", 
+    "name": "PENUGADI KESAVA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170644.jpg"
+  }, 
+  {
+    "gpa": "8.5", 
+    "id": 186, 
+    "idnum": "N170647", 
+    "name": "CHINTAPALLI MANIKANTA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170647.jpg"
+  }, 
+  {
+    "gpa": "1.9", 
+    "id": 187, 
+    "idnum": "N170652", 
+    "name": "KOLLABATHULA RAJI JEEVAN KUMAR", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170652.jpg"
+  }, 
+  {
+    "gpa": "7.6", 
+    "id": 188, 
+    "idnum": "N170654", 
+    "name": "GANUPALLI PAVANI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170654.jpg"
+  }, 
+  {
+    "gpa": "9.1", 
+    "id": 189, 
+    "idnum": "N170665", 
+    "name": "CHINTHAKANI PRIYANKA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170665.jpg"
+  }, 
+  {
+    "gpa": "5.1", 
+    "id": 190, 
+    "idnum": "N170668", 
+    "name": "CHILAKA RAJANI PRIYA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170668.jpg"
+  }, 
+  {
+    "gpa": "8.2", 
+    "id": 191, 
+    "idnum": "N170670", 
+    "name": "PALLI DIVYA SWAPNA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170670.jpg"
+  }, 
+  {
+    "gpa": "6.9", 
+    "id": 192, 
+    "idnum": "N170672", 
+    "name": "BODDU LENIN", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170672.jpg"
+  }, 
+  {
+    "gpa": "7.6", 
+    "id": 193, 
+    "idnum": "N170675", 
+    "name": "SHAIK ALMAS", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170675.jpg"
+  }, 
+  {
+    "gpa": "8.1", 
+    "id": 194, 
+    "idnum": "N170676", 
+    "name": "PONNAPALLI MOUNIKA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170676.jpg"
+  }, 
+  {
+    "gpa": "7.2", 
+    "id": 195, 
+    "idnum": "N170679", 
+    "name": "PANCHIREDDI MOUNIKA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170679.jpg"
+  }, 
+  {
+    "gpa": "4.9", 
+    "id": 196, 
+    "idnum": "N170682", 
+    "name": "MOKA SUSMITHA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170682.jpg"
+  }, 
+  {
+    "gpa": "8.9", 
+    "id": 197, 
+    "idnum": "N170683", 
+    "name": "SHAIK NOORHASAN", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170683.jpg"
+  }, 
+  {
+    "gpa": "8.4", 
+    "id": 198, 
+    "idnum": "N170684", 
+    "name": "KUMPATI MRUDULA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170684.jpg"
+  }, 
+  {
+    "gpa": "8.5", 
+    "id": 199, 
+    "idnum": "N170686", 
+    "name": "SHAIK SHABEENA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170686.jpg"
+  }, 
+  {
+    "gpa": "8.6", 
+    "id": 200, 
+    "idnum": "N170687", 
+    "name": "SHAIK SUBHANI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170687.jpg"
+  }, 
+  {
+    "gpa": "7.2", 
+    "id": 201, 
+    "idnum": "N170688", 
+    "name": "PAMULA VASU", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170688.jpg"
+  }, 
+  {
+    "gpa": "7.1", 
+    "id": 202, 
+    "idnum": "N170689", 
+    "name": "GADDAM CHANDRA BHANU", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170689.jpg"
+  }, 
+  {
+    "gpa": "9.5", 
+    "id": 203, 
+    "idnum": "N170694", 
+    "name": "ALUGU JOEL BRELSON", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170694.jpg"
+  }, 
+  {
+    "gpa": "8.6", 
+    "id": 204, 
+    "idnum": "N170697", 
+    "name": "SHAIK ABIBUNNISA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170697.jpg"
+  }, 
+  {
+    "gpa": "6.3", 
+    "id": 205, 
+    "idnum": "N170704", 
+    "name": "GANGARAPU SUNILKUMAR", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170704.jpg"
+  }, 
+  {
+    "gpa": "6.7", 
+    "id": 206, 
+    "idnum": "N170707", 
+    "name": "MALLAVARAPU GIRIJA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170707.jpg"
+  }, 
+  {
+    "gpa": "7.2", 
+    "id": 207, 
+    "idnum": "N170710", 
+    "name": "PALLETI SOWJANYA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170710.jpg"
+  }, 
+  {
+    "gpa": "5.8", 
+    "id": 208, 
+    "idnum": "N170711", 
+    "name": "PALLAVI AMPILI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170711.jpg"
+  }, 
+  {
+    "gpa": "7.7", 
+    "id": 209, 
+    "idnum": "N170712", 
+    "name": "PERIKALA VINOD KUMAR", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170712.jpg"
+  }, 
+  {
+    "gpa": "5.3", 
+    "id": 210, 
+    "idnum": "N170717", 
+    "name": "SHAIK MAHABOOB SHARIEF", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170717.jpg"
+  }, 
+  {
+    "gpa": "7.3", 
+    "id": 211, 
+    "idnum": "N170719", 
+    "name": "PAIDIMALLA PRIYANKA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170719.jpg"
+  }, 
+  {
+    "gpa": "4.1", 
+    "id": 212, 
+    "idnum": "N170723", 
+    "name": "PALLEPOGU VAMSI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170723.jpg"
+  }, 
+  {
+    "gpa": "4.2", 
+    "id": 213, 
+    "idnum": "N170724", 
+    "name": "T KUSUMAVATHI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170724.jpg"
+  }, 
+  {
+    "gpa": "3.9", 
+    "id": 214, 
+    "idnum": "N170727", 
+    "name": "NETHALA LEELA MOHAN", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170727.jpg"
+  }, 
+  {
+    "gpa": "7.7", 
+    "id": 215, 
+    "idnum": "N170728", 
+    "name": "SARAGULA SRESHTA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170728.jpg"
+  }, 
+  {
+    "gpa": "6.8", 
+    "id": 216, 
+    "idnum": "N170737", 
+    "name": "DEVUPALLI PRADEEP KUMAR", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170737.jpg"
+  }, 
+  {
+    "gpa": "7.1", 
+    "id": 217, 
+    "idnum": "N170739", 
+    "name": "VANGEPURAM JYOTSNA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170739.jpg"
+  }, 
+  {
+    "gpa": "9.4", 
+    "id": 218, 
+    "idnum": "N170741", 
+    "name": "ARAVAPALLI NIKITHA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170741.jpg"
+  }, 
+  {
+    "gpa": "3.0", 
+    "id": 219, 
+    "idnum": "N170743", 
+    "name": "ROKKALA SUBHASH", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170743.jpg"
+  }, 
+  {
+    "gpa": "7.4", 
+    "id": 220, 
+    "idnum": "N170753", 
+    "name": "CHOPPALA MALINI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170753.jpg"
+  }, 
+  {
+    "gpa": "5.9", 
+    "id": 221, 
+    "idnum": "N170754", 
+    "name": "VENNAPU JEEVAN BABU", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170754.jpg"
+  }, 
+  {
+    "gpa": "5.6", 
+    "id": 222, 
+    "idnum": "N170775", 
+    "name": "BOTLA SAKESH", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170775.jpg"
+  }, 
+  {
+    "gpa": "7.9", 
+    "id": 223, 
+    "idnum": "N170778", 
+    "name": "AKANAMBATTU SHANIL KUMAR", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170778.jpg"
+  }, 
+  {
+    "gpa": "7.8", 
+    "id": 224, 
+    "idnum": "N170788", 
+    "name": "LAMANI RAJESWARI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170788.jpg"
+  }, 
+  {
+    "gpa": "4.4", 
+    "id": 225, 
+    "idnum": "N170791", 
+    "name": "AKKILIGUNTA RAKESH", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170791.jpg"
+  }, 
+  {
+    "gpa": "1.6", 
+    "id": 226, 
+    "idnum": "N170792", 
+    "name": "KATTA SRAVANI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170792.jpg"
+  }, 
+  {
+    "gpa": "4.6", 
+    "id": 227, 
+    "idnum": "N170801", 
+    "name": "SHAIK SAMEER", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170801.jpg"
+  }, 
+  {
+    "gpa": "7.8", 
+    "id": 228, 
+    "idnum": "N170817", 
+    "name": "VARA PRASAD BHUKYA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170817.jpg"
+  }, 
+  {
+    "gpa": "8.6", 
+    "id": 229, 
+    "idnum": "N170824", 
+    "name": "KONDURI YOGA NANDINI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170824.jpg"
+  }, 
+  {
+    "gpa": "6.0", 
+    "id": 230, 
+    "idnum": "N170829", 
+    "name": "BUDIPITI SHRUTHI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170829.jpg"
+  }, 
+  {
+    "gpa": "8.0", 
+    "id": 231, 
+    "idnum": "N170832", 
+    "name": "NAKKINA STHUTHI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170832.jpg"
+  }, 
+  {
+    "gpa": "7.9", 
+    "id": 232, 
+    "idnum": "N170839", 
+    "name": "MOTAPOTHULA NAVEEN KUMAR", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170839.jpg"
+  }, 
+  {
+    "gpa": "9.8", 
+    "id": 233, 
+    "idnum": "N170842", 
+    "name": "LANKA NAGALAKSHMI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170842.jpg"
+  }, 
+  {
+    "gpa": "10.0", 
+    "id": 234, 
+    "idnum": "N170846", 
+    "name": "ROKKAM SUSMITHA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170846.jpg"
+  }, 
+  {
+    "gpa": "8.2", 
+    "id": 235, 
+    "idnum": "N170848", 
+    "name": "CHUNCHULA LAKSHMI ARAVIND", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170848.jpg"
+  }, 
+  {
+    "gpa": "2.9", 
+    "id": 236, 
+    "idnum": "N170853", 
+    "name": "BOYA PAVAN THEJA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170853.jpg"
+  }, 
+  {
+    "gpa": "8.9", 
+    "id": 237, 
+    "idnum": "N170854", 
+    "name": "CHILAKALA NAVAZ", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170854.jpg"
+  }, 
+  {
+    "gpa": "9.0", 
+    "id": 238, 
+    "idnum": "N170855", 
+    "name": "MAMIDISETTI NAMRATHA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170855.jpg"
+  }, 
+  {
+    "gpa": "9.2", 
+    "id": 239, 
+    "idnum": "N170857", 
+    "name": "NARE NIHARIKA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170857.jpg"
+  }, 
+  {
+    "gpa": "9.6", 
+    "id": 240, 
+    "idnum": "N170866", 
+    "name": "SREERAM HARITHA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170866.jpg"
+  }, 
+  {
+    "gpa": "8.6", 
+    "id": 241, 
+    "idnum": "N170867", 
+    "name": "ANDE MONIKA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170867.jpg"
+  }, 
+  {
+    "gpa": "9.1", 
+    "id": 242, 
+    "idnum": "N170872", 
+    "name": "SHAIK DILSHAD", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170872.jpg"
+  }, 
+  {
+    "gpa": "8.9", 
+    "id": 243, 
+    "idnum": "N170874", 
+    "name": "LAMBANI SRIKANTH", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170874.jpg"
+  }, 
+  {
+    "gpa": "2.9", 
+    "id": 244, 
+    "idnum": "N170876", 
+    "name": "KURPA YASODHA SREE KUSUMA HARIKA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170876.jpg"
+  }, 
+  {
+    "gpa": "9.1", 
+    "id": 245, 
+    "idnum": "N170879", 
+    "name": "PALLAPU SUSHMASREE", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170879.jpg"
+  }, 
+  {
+    "gpa": "7.7", 
+    "id": 246, 
+    "idnum": "N170881", 
+    "name": "SHAIK ALIYA PARVEEN", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170881.jpg"
+  }, 
+  {
+    "gpa": "9.5", 
+    "id": 247, 
+    "idnum": "N170887", 
+    "name": "ADUSUMALLI GOPI KRISHNA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170887.jpg"
+  }, 
+  {
+    "gpa": "5.6", 
+    "id": 248, 
+    "idnum": "N170890", 
+    "name": "JADAV SRI DIVYA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170890.jpg"
+  }, 
+  {
+    "gpa": "2.8", 
+    "id": 249, 
+    "idnum": "N170895", 
+    "name": "KAVATI KALYAN BABU", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170895.jpg"
+  }, 
+  {
+    "gpa": "9.0", 
+    "id": 250, 
+    "idnum": "N170899", 
+    "name": "MUDDALA MAHA GANESH SAI PAVAN", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170899.jpg"
+  }, 
+  {
+    "gpa": "5.1", 
+    "id": 251, 
+    "idnum": "N170909", 
+    "name": "BATHULA CHARAN TEJA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170909.jpg"
+  }, 
+  {
+    "gpa": "7.2", 
+    "id": 252, 
+    "idnum": "N170924", 
+    "name": "DEESARI MANI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170924.jpg"
+  }, 
+  {
+    "gpa": "7.9", 
+    "id": 253, 
+    "idnum": "N170928", 
+    "name": "GORLA SHRI VARDHAN", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170928.jpg"
+  }, 
+  {
+    "gpa": "7.8", 
+    "id": 254, 
+    "idnum": "N170929", 
+    "name": "GAJULAPALLI PADMAVATHI BAI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170929.jpg"
+  }, 
+  {
+    "gpa": "8.9", 
+    "id": 255, 
+    "idnum": "N170937", 
+    "name": "NANDIMANDALAM BHARATH KUMAR", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170937.jpg"
+  }, 
+  {
+    "gpa": "8.7", 
+    "id": 256, 
+    "idnum": "N170969", 
+    "name": "SHAIK ISMAIL", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170969.jpg"
+  }, 
+  {
+    "gpa": "5.0", 
+    "id": 257, 
+    "idnum": "N170973", 
+    "name": "MOHAMMAD IQBAL", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170973.jpg"
+  }, 
+  {
+    "gpa": "8.8", 
+    "id": 258, 
+    "idnum": "N170974", 
+    "name": "BANAVATH RAMU NAIK", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170974.jpg"
+  }, 
+  {
+    "gpa": "8.8", 
+    "id": 259, 
+    "idnum": "N170985", 
+    "name": "MONANGI JAGADEESH", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170985.jpg"
+  }, 
+  {
+    "gpa": "3.0", 
+    "id": 260, 
+    "idnum": "N170987", 
+    "name": "CHALLA SASIKIRAN", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N170987.jpg"
+  }, 
+  {
+    "gpa": "7.7", 
+    "id": 261, 
+    "idnum": "N171000", 
+    "name": "SHAIK ABDUL RIYAZ", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N171000.jpg"
+  }, 
+  {
+    "gpa": "8.9", 
+    "id": 262, 
+    "idnum": "N171003", 
+    "name": "KOLASANI GAUTAM SRIKAR", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N171003.jpg"
+  }, 
+  {
+    "gpa": "8.6", 
+    "id": 263, 
+    "idnum": "N171004", 
+    "name": "KANAKALA YOGINI SIVA RAMALAKSHMI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N171004.jpg"
+  }, 
+  {
+    "gpa": "8.2", 
+    "id": 264, 
+    "idnum": "N171005", 
+    "name": "GORLE RISHITHA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N171005.jpg"
+  }, 
+  {
+    "gpa": "8.1", 
+    "id": 265, 
+    "idnum": "N171007", 
+    "name": "PONNANA RAM KUMAR", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N171007.jpg"
+  }, 
+  {
+    "gpa": "7.8", 
+    "id": 266, 
+    "idnum": "N171015", 
+    "name": "PUCHALA BHANU VAISHNAVI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N171015.jpg"
+  }, 
+  {
+    "gpa": "1.1", 
+    "id": 267, 
+    "idnum": "N171025", 
+    "name": "ALLAM DURGA PRASAD", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N171025.jpg"
+  }, 
+  {
+    "gpa": "0.0", 
+    "id": 268, 
+    "idnum": "N171027", 
+    "name": "KOMARAGIRI SAI BHARGAV", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N171027.jpg"
+  }, 
+  {
+    "gpa": "8.7", 
+    "id": 269, 
+    "idnum": "N171035", 
+    "name": "VEDALAPURAPU KEERTHI PRIYA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N171035.jpg"
+  }, 
+  {
+    "gpa": "8.4", 
+    "id": 270, 
+    "idnum": "N171059", 
+    "name": "YENDRAPALLI SARITHA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N171059.jpg"
+  }, 
+  {
+    "gpa": "7.5", 
+    "id": 271, 
+    "idnum": "N171060", 
+    "name": "EARLA SAMPATH KUMAR", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N171060.jpg"
+  }, 
+  {
+    "gpa": "7.8", 
+    "id": 272, 
+    "idnum": "N171062", 
+    "name": "CHEEMALADINNE VENKATA LAKSHMI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N171062.jpg"
+  }, 
+  {
+    "gpa": "8.5", 
+    "id": 273, 
+    "idnum": "N171063", 
+    "name": "KOTA BHAVYA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N171063.jpg"
+  }, 
+  {
+    "gpa": "7.0", 
+    "id": 274, 
+    "idnum": "N171064", 
+    "name": "JUPUDI PRASANNA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N171064.jpg"
+  }, 
+  {
+    "gpa": "8.6", 
+    "id": 275, 
+    "idnum": "N171067", 
+    "name": "KOTA SRUTHI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N171067.jpg"
+  }, 
+  {
+    "gpa": "8.2", 
+    "id": 276, 
+    "idnum": "N171069", 
+    "name": "SUNKAVILLI GAYATRI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N171069.jpg"
+  }, 
+  {
+    "gpa": "8.4", 
+    "id": 277, 
+    "idnum": "N171076", 
+    "name": "KANTA NITHISH", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N171076.jpg"
+  }, 
+  {
+    "gpa": "8.4", 
+    "id": 278, 
+    "idnum": "N171080", 
+    "name": "BILLA RAGHAVA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N171080.jpg"
+  }, 
+  {
+    "gpa": "8.7", 
+    "id": 279, 
+    "idnum": "N171083", 
+    "name": "MULUKUTLA PARIMALA SAI LAKSHMI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N171083.jpg"
+  }, 
+  {
+    "gpa": "7.0", 
+    "id": 280, 
+    "idnum": "N171093", 
+    "name": "KANNEGANTI JYOTHSNA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N171093.jpg"
+  }, 
+  {
+    "gpa": "8.2", 
+    "id": 281, 
+    "idnum": "N171094", 
+    "name": "MEDAPI SIREESHA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N171094.jpg"
+  }, 
+  {
+    "gpa": "9.2", 
+    "id": 282, 
+    "idnum": "N171095", 
+    "name": "KAMAVARAPU SAI PRASANNA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N171095.jpg"
+  }, 
+  {
+    "gpa": "7.2", 
+    "id": 283, 
+    "idnum": "N171097", 
+    "name": "RAMANI SWAROOPA RANI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N171097.jpg"
+  }, 
+  {
+    "gpa": "8.9", 
+    "id": 284, 
+    "idnum": "N171112", 
+    "name": "SEELAM ASHOK REDDY", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N171112.jpg"
+  }, 
+  {
+    "gpa": "9.3", 
+    "id": 285, 
+    "idnum": "N171115", 
+    "name": "CHAPPIDI JAYA SRI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N171115.jpg"
+  }, 
+  {
+    "gpa": "7.6", 
+    "id": 286, 
+    "idnum": "N171121", 
+    "name": "PATRO GAYATRI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N171121.jpg"
+  }, 
+  {
+    "gpa": "8.5", 
+    "id": 287, 
+    "idnum": "N171123", 
+    "name": "CHEBROLU VASAVI RAO", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N171123.jpg"
+  }, 
+  {
+    "gpa": "8.1", 
+    "id": 288, 
+    "idnum": "N171132", 
+    "name": "KUPPA SRIDEVI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N171132.jpg"
+  }, 
+  {
+    "gpa": "7.7", 
+    "id": 289, 
+    "idnum": "N171143", 
+    "name": "BALAGANI HARIKA BHAVANI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N171143.jpg"
+  }, 
+  {
+    "gpa": "6.9", 
+    "id": 290, 
+    "idnum": "N171154", 
+    "name": "KORAGANTI MALAVIKA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N171154.jpg"
+  }, 
+  {
+    "gpa": "9.4", 
+    "id": 291, 
+    "idnum": "N171155", 
+    "name": "GUNTURI BHAVYASRI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N171155.jpg"
+  }, 
+  {
+    "gpa": "4.8", 
+    "id": 292, 
+    "idnum": "N171156", 
+    "name": "PIDATHALA SWATHI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N171156.jpg"
+  }, 
+  {
+    "gpa": "7.7", 
+    "id": 293, 
+    "idnum": "N171157", 
+    "name": "PAGIDI DEEPIKA DIVYARCHANA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N171157.jpg"
+  }, 
+  {
+    "gpa": "9.4", 
+    "id": 294, 
+    "idnum": "N171159", 
+    "name": "RAYIPUDI PAVAN", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N171159.jpg"
+  }, 
+  {
+    "gpa": "8.3", 
+    "id": 295, 
+    "idnum": "N171160", 
+    "name": "MUSETTY PURNA SAI VINAY", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N171160.jpg"
+  }, 
+  {
+    "gpa": "0.6", 
+    "id": 296, 
+    "idnum": "N171164", 
+    "name": "AREMANDA KAMAL", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N171164.jpg"
+  }, 
+  {
+    "gpa": "9.0", 
+    "id": 297, 
+    "idnum": "N171168", 
+    "name": "VAIKANTI GOPALA KRISHNA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N171168.jpg"
+  }, 
+  {
+    "gpa": "6.8", 
+    "id": 298, 
+    "idnum": "N171182", 
+    "name": "JAVVAJI VEERANJANEYULU", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N171182.jpg"
+  }, 
+  {
+    "gpa": "6.5", 
+    "id": 299, 
+    "idnum": "N171185", 
+    "name": "VEERANKI HARIKA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N171185.jpg"
+  }, 
+  {
+    "gpa": "5.9", 
+    "id": 300, 
+    "idnum": "N171186", 
+    "name": "KATIKALA SUSMITHA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N171186.jpg"
+  }, 
+  {
+    "gpa": "7.4", 
+    "id": 301, 
+    "idnum": "N171188", 
+    "name": "YEMINENI LAKSHMI NAGA MANI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N171188.jpg"
+  }, 
+  {
+    "gpa": "6.8", 
+    "id": 302, 
+    "idnum": "N171191", 
+    "name": "JERRIPOTULA PAVITHRA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N171191.jpg"
+  }, 
+  {
+    "gpa": "3.3", 
+    "id": 303, 
+    "idnum": "N171193", 
+    "name": "CHANDRAMALLA SINDHU PRIYA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N171193.jpg"
+  }, 
+  {
+    "gpa": "7.3", 
+    "id": 304, 
+    "idnum": "N171197", 
+    "name": "BOLLIPO CHANDRAMUKHI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N171197.jpg"
+  }, 
+  {
+    "gpa": "9.1", 
+    "id": 305, 
+    "idnum": "N171205", 
+    "name": "MAREEDU JYOTHI RATNAM", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N171205.jpg"
+  }, 
+  {
+    "gpa": "6.3", 
+    "id": 306, 
+    "idnum": "N171209", 
+    "name": "GUDDETI VARALAKSHMI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N171209.jpg"
+  }, 
+  {
+    "gpa": "9.1", 
+    "id": 307, 
+    "idnum": "N171211", 
+    "name": "MELAM PRATHYUSHA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N171211.jpg"
+  }, 
+  {
+    "gpa": "8.5", 
+    "id": 308, 
+    "idnum": "N171230", 
+    "name": "SHAIK JAINABI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N171230.jpg"
+  }, 
+  {
+    "gpa": "5.7", 
+    "id": 309, 
+    "idnum": "N171241", 
+    "name": "M LAKSHMI LALITHA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N171241.jpg"
+  }, 
+  {
+    "gpa": "8.7", 
+    "id": 310, 
+    "idnum": "N171242", 
+    "name": "N JAYADITHYA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N171242.jpg"
+  }, 
+  {
+    "gpa": "9.2", 
+    "id": 311, 
+    "idnum": "N171254", 
+    "name": "KOPALLI SATHVIKA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N171254.jpg"
+  }, 
+  {
+    "gpa": "8.6", 
+    "id": 312, 
+    "idnum": "N171258", 
+    "name": "PUTTA NAVYA DURGA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N171258.jpg"
+  }, 
+  {
+    "gpa": "8.2", 
+    "id": 313, 
+    "idnum": "N171259", 
+    "name": "GHANTA RAMA NAGESWARI", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N171259.jpg"
+  }, 
+  {
+    "gpa": "8.0", 
+    "id": 314, 
+    "idnum": "N171260", 
+    "name": "MUTHYALA SAMATHA", 
+    "photo": "https://intranet.rguktn.ac.in/SMS/usrphotos/user/N171260.jpg"
+  }
+]
